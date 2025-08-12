@@ -71,7 +71,7 @@ Currently, I’m building **[iTrust](https://itrust-website.vercel.app/)** — t
 <p>
   <a href="mailto:danielkaranja65@gmail.com"><img src="https://img.shields.io/badge/Email-danielkaranja65%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+254711754449"><img src="https://img.shields.io/badge/Mobile-%2B254%20711%20754%20449-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/danielkaranja/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Karanja-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-karanja-7350b1198/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Karanja-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
